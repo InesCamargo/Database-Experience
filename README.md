@@ -8,7 +8,7 @@ Entrega do **Desafio BootCamp Database Experience** com um script SQL único cob
 
 ## Arquivo
 
-- `/home/runner/work/Database-Experience/Database-Experience/bootcamp_database_experience.sql`
+- `bootcamp_database_experience.sql`
 
 ## Como executar (SQLite)
 
